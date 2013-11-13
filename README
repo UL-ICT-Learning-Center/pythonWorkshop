@@ -13,6 +13,7 @@ The following list of modules are needed to run some Python2 examples:
 -PIL
 -UnitTest
 -pygame
+-mysql
 
 
 Feel free to fork & send merge requests with fixes / updates,
